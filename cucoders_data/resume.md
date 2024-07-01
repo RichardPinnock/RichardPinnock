@@ -18,7 +18,11 @@ cliente
 
 ### Common People Interactive, Barcelona-España
 - Frontend Web Developer, 6 meses
-- Encargado de la creación de intefaces de usuario a partir de un deseño proporcionado, optimización SEO, interactividad y optimizacion sitios webs. 
+- Encargado de la creación de intefaces de usuario a partir de un deseño proporcionado, optimización SEO, interactividad y optimizacion sitios webs.
+
+### Freelance, La Habana
+- Frontend Web Developer, 2 años
+- Diseño y desarrollo de sitios webs y webs de adminiración a partir de una lógica de negicio.
 
 ## 💻 Habilidades
 

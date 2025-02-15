@@ -44,8 +44,6 @@
 
 <div id="github" align="center">
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardpinnock&show_icons=true&theme=tokyonight&locale=es&hide_rank=true ) 
-
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPinnock&layout=compact&locale=es)
 </div>
 

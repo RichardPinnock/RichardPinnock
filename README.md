@@ -31,20 +31,19 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/>
 
-  
 </div>
 
 <h4 align="center">Mis Estadísticas</h4>
 <div id="trophy" align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=richardpinnock&theme=onedark&rank=S,AAA,B,C&title=-Experience&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://trophy.ryglcloud.net/?username=richardpinnock&title=Commits,Experience,Repositories&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true" alt="Richard Pinnock trophies" />
+  </a>
 </div>
 
+<br/>
 
 <div id="github" align="center">
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPinnock&layout=compact&locale=es)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPinnock&layout=compact&locale=es" alt="Top Langs" />
 </div>
 
 <h3 align="center">Puedes encontrarme en:</h3>

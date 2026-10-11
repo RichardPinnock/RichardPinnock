@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Richard Pinnock - Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61dafb"/>
+      <stop offset="1" stop-color="#0e75b6"/>
+    </linearGradient>
+    <clipPath id="win"><rect x="1" y="1" width="898" height="298" rx="14"/></clipPath>
+    <style>
+      text { font-family: 'Fira Code', 'Cascadia Code', Consolas, 'SFMono-Regular', monospace; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="298" rx="14" fill="url(#bg)" stroke="#30363d"/>
+
+  <g clip-path="url(#win)">
+    <!-- title bar + tab -->
+    <rect x="1" y="1" width="898" height="40" fill="#161b22"/>
+    <line x1="1" y1="41" x2="899" y2="41" stroke="#30363d"/>
+    <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+    <circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
+    <circle cx="66" cy="21" r="6" fill="#27c93f"/>
+    <rect x="100" y="10" width="112" height="31" fill="#0d1117"/>
+    <rect x="100" y="39" width="112" height="2" fill="url(#accent)"/>
+    <text x="156" y="30" font-size="12" fill="#c9d1d9" text-anchor="middle">Hero.tsx</text>
+
+    <!-- line numbers -->
+    <g font-size="17" fill="#6e7681">
+      <text x="40" y="83">1</text><text x="40" y="113">2</text><text x="40" y="143">3</text>
+      <text x="40" y="173">4</text><text x="40" y="203">5</text><text x="40" y="233">6</text>
+      <text x="40" y="263">7</text>
+    </g>
+
+    <!-- code -->
+    <g font-size="17">
+      <text x="86" y="83"><tspan fill="#ff7b72">const</tspan><tspan fill="#d2a8ff"> Hero</tspan><tspan fill="#c9d1d9"> = () =&gt; (</tspan></text>
+      <text x="112" y="113"><tspan fill="#c9d1d9">&lt;</tspan><tspan fill="#7ee787">Developer</tspan></text>
+      <text x="138" y="143"><tspan fill="#79c0ff">name</tspan><tspan fill="#c9d1d9">=</tspan><tspan fill="#a5d6ff">"Richard Pinnock"</tspan></text>
+      <text x="138" y="173"><tspan fill="#79c0ff">role</tspan><tspan fill="#c9d1d9">=</tspan><tspan fill="#a5d6ff">"Frontend"</tspan></text>
+      <text x="138" y="203"><tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9">={[</tspan><tspan fill="#a5d6ff">"React"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Next"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"TS"</tspan><tspan fill="#c9d1d9">]}</tspan></text>
+      <text x="138" y="233"><tspan fill="#79c0ff">pixelPerfect</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#79c0ff">accessible</tspan><tspan fill="#c9d1d9"> /&gt;</tspan></text>
+      <text x="86" y="263" fill="#c9d1d9">);</text>
+    </g>
+    <rect class="cursor" x="116" y="248" width="10" height="20" fill="#61dafb"/>
+  </g>
+</svg>
